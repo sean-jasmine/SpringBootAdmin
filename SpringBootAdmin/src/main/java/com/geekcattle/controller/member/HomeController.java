@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2017 <l_iupeiyu@qq.com> All rights reserved.
- */
-
 package com.geekcattle.controller.member;
 
 import com.geekcattle.model.member.Member;
@@ -21,10 +17,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 
-/**
- * author geekcattle
- * date 2017/3/14 0014 上午 9:54
- */
 @Controller
 @RequestMapping("/member")
 public class HomeController {
