@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2017 <l_iupeiyu@qq.com> All rights reserved.
- */
-
 package com.geekcattle.controller.console;
 
 import com.geekcattle.model.console.Admin;
@@ -31,10 +27,7 @@ import javax.validation.Valid;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * author geekcattle
- * date 2016/10/21 0021 下午 15:58
- */
+
 @Controller
 @RequestMapping("/console/admin")
 public class AdminController {
