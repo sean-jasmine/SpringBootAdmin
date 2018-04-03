@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2017 <l_iupeiyu@qq.com> All rights reserved.
- */
-
 package com.geekcattle.controller.member;
 
 import com.geekcattle.core.LoginEnum;
@@ -32,10 +28,7 @@ import tk.mybatis.mapper.entity.Example;
 
 import javax.validation.Valid;
 
-/**
- * author geekcattle
- * date 2017/3/9 0009 下午 14:28
- */
+
 @RestController
 @RequestMapping("/member")
 public class MemberController {
